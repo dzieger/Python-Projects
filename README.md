@@ -1,2 +1,2 @@
 # Python Projects
-A place to store all of the Python Projects I have built.
+Here is a list of all of the Python projects contained in this repository.
